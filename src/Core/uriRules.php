@@ -20,5 +20,10 @@ return [
     '/users/add' => 'users/showaddform',
     '/users/delete{id}' => 'users/delete',
 
+    '/orders/page{page}' => 'orders/show',
+    '/orders/edit{id}' => 'orders/showeditform',
+    '/orders/add' => 'orders/showaddform',
+    '/orders/delete{id}' => 'orders/delete',
+
     '/signup' => 'signup/showform'
 ];

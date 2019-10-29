@@ -29,5 +29,6 @@ foreach ($table as $row) {
 echo "</table>";
 echo "<a href='$addLink' class='btn btn-success'>Add new</a>";
 echo "</div></div>";
+echo "<br/>";
 echo $paginationHTML;
 
