@@ -9,5 +9,11 @@
         "tableTwoController",
         "UserGroupController",
         "UsersController"
+    ],
+    "client": [
+        "tableOneController",
+        "tableTwoController",
+        "UserGroupController",
+        "UsersController"
     ]
 }
